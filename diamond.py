@@ -1,6 +1,8 @@
 #sivani waste mohamdhiiiiii
 #me is veryy innocent
 #...........
+#hii hellooooo
+#kflkgjflkgjf
 N=int(input())
 for i in range(0,N):
     for j in range(0,N-i-1):
