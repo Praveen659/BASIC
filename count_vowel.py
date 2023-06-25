@@ -1,1 +1,2 @@
+#coutn vowelllllsssssss
 s=input()
